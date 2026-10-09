@@ -55,9 +55,9 @@ https://www.smashingmagazine.com/, https://css-tricks.com/. Открывать
 
 Скриншоты:
 
-`![Панель Network со списком запросов](screens/01-network.png)`
+![Панель Network со списком запросов](screens/01-network.png)
 
-`![Вкладка Payload одного события](screens/02-payload.png)`
+![Вкладка Payload одного события](screens/02-payload.png)
 
 ## 3. Путь пользователя: 5 шагов
 
