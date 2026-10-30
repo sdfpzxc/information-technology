@@ -8,13 +8,13 @@
 
 | Что | Ссылка |
 |---|---|
-| Репозиторий проекта | `https://github.com/sdfpzxc/muzykalnaya-shkola-akkord` |
-| Сайт на Vercel | `https://muzykalnaya-shkola-akkord.vercel.app/` |
-| Описание работы `docs/opisanie.md` | `https://github.com/sdfpzxc/muzykalnaya-shkola-akkord/blob/main/docs/opisanie.md` |
+| Репозиторий проекта | https://github.com/sdfpzxc/muzykalnaya-shkola-akkord |
+| Сайт на Vercel | https://muzykalnaya-shkola-akkord.vercel.app/ |
+| Описание работы `docs/opisanie.md` | https://github.com/sdfpzxc/muzykalnaya-shkola-akkord/blob/main/docs/opisanie.md |
 | Презентация `presentation/zashchita.pdf` | *в репозитории в папке с презентация* |
-| Таблица заявок (доступ на просмотр) | `https://docs.google.com/spreadsheets/d/1ze-oa8-WpxGMRNj676tqbwHazcXYZAAoaRNMx5L7ZaA/edit` |
-| Дашборд DataLens | `https://datalens.ru/5fq3m4mxeg98o-akkord-song-by-ny-2026?_share_link=org` |
-| Reel с автоответом | `https://t.me/music_school_akkord_bot` *(Telegram-бот вместо Reel)* |
+| Таблица заявок (доступ на просмотр) | https://docs.google.com/spreadsheets/d/1ze-oa8-WpxGMRNj676tqbwHazcXYZAAoaRNMx5L7ZaA/edit |
+| Дашборд DataLens | https://datalens.ru/5fq3m4mxeg98o-akkord-song-by-ny-2026?_share_link=org |
+| Reel с автоответом | https://t.me/music_school_akkord_bot *(Telegram-бот вместо Reel)* |
 
 **Measurement ID ресурса GA4:** `G-SXRLS6JNV7`
 **Доступ Viewer к ресурсу GA4 выдан:** `admin@akkord-school.example` (Карпов Никита Дмитриевич)
