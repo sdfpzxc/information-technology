@@ -28,7 +28,9 @@
 | Публичный адрес сайта | https://analytics-lab-three.vercel.app/ |
 | Measurement ID (`G-…`) | G-K1KZ2LMQX9 |
 
-![Instagram подключён к ManyChat](screens/01-connected.png) У меня с ноута дома не работает мэни чат но он был подключен клянусь вот даже сообщение пришлосами
+![Instagram подключён к ManyChat](screens/01-connected.png) 
+
+У меня с ноута дома не работает мэни чат но он был подключен клянусь вот даже сообщение пришлосами
 
 ## 2. Тест цепочки
 
