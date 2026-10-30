@@ -15,17 +15,26 @@ a new repository** и назовите его `funnel-project`. Кнопка **F
 репозитория и выберите папку на диске. Как это выглядит по шагам —
 [разбор с кадрами](docs/git/README.md#2-первый-репозиторий).
 
-## Домашние работы
+### 📚 Домашние работы (по занятиям)
 
-| № | Папка | Что сдаёте |
-|---|---|---|
-| 1 | `lesson_01` | три события на сайте, путь пользователя, точка потери данных |
-| 2 | `lesson_02` | где бизнес теряет клиентов: воронка и настройка GA4 |
-| 3 | `lesson_03` | скриншоты: тег на сайте, источник перехода и отчёты GA4 |
-| 4 | `lesson_04` | четыре своих события на сайте и их параметры в GA4 |
-| 5 | `lesson_05` | форма сайта пишет заявки в Google Таблицу через Apps Script |
-| 6 | `lesson_06` | повторяемая очистка выгрузки заявок формулами Google Таблиц |
-| 7 | `lesson_07` | цепочка Instagram → ManyChat → сайт → заявка в таблице |
+| № | Тема занятия | Ветка | Перейти к файлам |
+| :---: | :--- | :---: | :--- |
+| **01** | Цифровая воронка | `hw-01` | [Открыть папку `lesson_01`] https://github.com/sdfpzxc/information-technology/tree/hw-01/lesson_01 |
+| **02** | Где бизнес теряет клиентов: анализ воронки | `hw-02` | [Открыть папку `lesson_02`] https://github.com/sdfpzxc/information-technology/tree/hw-02/lesson_02 |
+| **03** | Тег на сайте, источник и отчёты GA4 | `hw-03` | [Открыть папку `lesson_03`] https://github.com/sdfpzxc/information-technology/tree/hw-03/lesson_03 |
+| **04** | Свои события и параметры в GA4 | `hw-04` | [Открыть папку `lesson_04`] https://github.com/sdfpzxc/information-technology/tree/hw-04/lesson_04 |
+| **05** | Контролируемая таблица заявок | `hw-05` | [Открыть папку `lesson_05`] https://github.com/sdfpzxc/information-technology/tree/hw-05/lesson_05 |
+| **06** | Подготовка данных в Google Таблицах | `hw-06` | [Открыть папку `lesson_06`] https://github.com/sdfpzxc/information-technology/tree/hw-06/lesson_06 |
+| **07** | Instagram → ManyChat → заявка | `hw-07` | [Открыть папку `lesson_07`] https://github.com/sdfpzxc/information-technology/tree/hw-07/lesson_07 |
+
+### 📁 Проекты и дополнительные материалы
+
+| Раздел | Ветка | Перейти к файлам |
+| :--- | :---: | :--- |
+| **Курсовая работа** | `kursovaya` | [Открыть папку `kursovaya_rabota`]https://github.com/sdfpzxc/information-technology/tree/kursovaya/kursovaya_rabota |
+| **Документация (`docs`)** | `docs` | [Открыть папку `docs`]https://github.com/sdfpzxc/information-technology/tree/docs/docs |
+| **Лекции (`lectures`)** | `lectures` | [Открыть папку `lectures`]https://github.com/sdfpzxc/information-technology/tree/lectures/lectures |
+| **Материалы (`materials`)** | `materials` | [Открыть папку `materials`] https://github.com/sdfpzxc/information-technology/tree/materials/materials |
 
 Что делать по заданию, написано в файле `README.md` внутри папки задания.
 Там же лежит бланк `homework_NN.md`: вы вписываете свои ответы в готовые
