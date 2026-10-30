@@ -1,0 +1,1 @@
+**ВСЕ ЛЕКЦИИ ТУТ ---->** https://github.com/MaximBytecamp/funnel-project-template/tree/main/lectures
